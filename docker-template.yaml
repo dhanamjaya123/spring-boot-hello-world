@@ -152,5 +152,5 @@ parameters:
   required: true
 - name: BRANCH_NAME
   displayName: Branch Name
-  required: true 
+  required: false 
   value: master
